@@ -4,8 +4,8 @@
 <title>โปรแกรมคำนวณหาค่าดัชนีมวลกาย(BMI)</title>
 </style type="text/css">
 body {
-    background-color:#600;
-    color:#FFF;
+   background-color:#600;
+   color:#FFF;
 }
 -->
 </style></head>
